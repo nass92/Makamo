@@ -1,3 +1,7 @@
+# Deploiement du site
+
+netlify : https://hardcore-engelbart-988371.netlify.app/
+
 # Installation
 Assurez-vous de naviguer sur Brave, firefox, ou google chrome. Et d'avoir metamask d'installer sur votre navigateur.
 
